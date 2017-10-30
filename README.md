@@ -1,4 +1,4 @@
-#Conferências e Eventos de Tecnologia e de Startups no Brasil (Brazilian Tech and Startup Conferences)
+# Conferências e Eventos de Tecnologia e de Startups no Brasil (Brazilian Tech and Startup Conferences)
 
 ## 2017
 
@@ -21,6 +21,7 @@
 
 #### April
 
+* [DevOps Summit Brasil](http://www.devopssummitbrasil.com/) | **March 31 - April 01** | São Paulo
 * [Capivara Codes](http://capivara.codes) | **April 01** | Parana
 * [Roadsec 2017 | Fortaleza](http://roadsec.com.br/fortaleza2017/) | **April 08** | Fortaleza
 * [QCon Sao Paulo](http://qconsp.com/) | **April 24-26** | Sao Paulo
@@ -31,23 +32,42 @@
 * [CEJS 2017](http://www.cejs.com.br/) | **May 13** | Fortaleza
 * [Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)](http://sbrc2017.ufpa.br/) | **May 15-19** | Belém
 * [Security BSides SPv14](https://www.facebook.com/events/1790032051324595/) | **May 20-21** | Sao Paulo
+* [Tech Interior](http://techinterior.com.br) | **May 27** | Jaboticabal
+* [Darkmira Tour](https://php.darkmiratour.rocks/2017/) | **May 27-28** | Brasília
 
 #### June
 
 * [JS Experience 2017](https://jsexperience2017.imasters.com.br/) | **June 23** | Sao Paulo
+* [19º Encontro Locaweb SP](http://eventos.locaweb.com.br/proximos-eventos/19o-encontro-locaweb-sao-paulo/) | **June 28** | Sao Paulo
 
 #### July
 
-* [Front in Sampa 2019](http://frontinsampa.com.br/) | **July 1** | Sao Paulo
+* [Front in Sampa 2017](http://frontinsampa.com.br/) | **July 1** | Sao Paulo
+* [Code in the Dark](http://codeinthedark.com.br) | **July 1** | Sao Paulo
+* [TDC Sao Paulo](http://www.thedevelopersconference.com.br/) | **July 18-22** | Sao Paulo
 
 #### August
 
 * [Android Dev Conference](http://androidconference.com.br/) | **August 24-25** | Sao Paulo
 
+#### August
+
+* [BrazilJS Conf POA](https://braziljs.org/conf/) | **August 25-26** | Porto Alegre
+
 #### September
 
+* [BrazilJS Conf Fortaleza](https://braziljs.org/conf/) | **September 01-2** | Fortaleza
 * [DevXperience](http://www.devxperience.com.br/) | **September 01-02** | Sao Paulo
 * [THE CONF](http://theconf.club/) | **September 29-30** | Sao Paulo
+
+#### October
+
+* [iMasters Intercon](https://intercon2017.imasters.com.br/) | **October 20-21** | Sao Paulo
+* [Web.br 2017](http://conferenciaweb.w3c.br/) | **October 24-25** | Sao Paulo
+
+#### December
+
+* [PHP Conference Brasil 2017](http://www.phpconference.com.br/) | **December 06-10** | Sao Paulo
 
 ## 2016
 
@@ -165,7 +185,7 @@
 * [Elixir Day na Quero Educação](https://www.eventbrite.com/e/elixir-day-na-quero-educacao-tickets-28233729846?ref_source=elixirday) | **October 8** | São José dos Campos
 * [Python Brazil](http://2016.pythonbrasil.org.br/) | **October 13-18** | Florianopolis
 * [Web.br 2016 - W3C Brasil](http://conferenciaweb.w3c.br/) | **October 13-14** | Sao Paulo
-* [OxenTI](https://www.eventbrite.com.br/e/oxenti-ifce-maracanau-tickets-27894629588) | **October 13-14** | Maracanaú/CE 
+* [OxenTI](https://www.eventbrite.com.br/e/oxenti-ifce-maracanau-tickets-27894629588) | **October 13-14** | Maracanaú/CE
 * [GDG DevFest Cerrado](http://devfestcerrado.com.br) | **October 15** | Goiania
 * [Hackathon FIESP](http://hotsite.fiesp.com.br/hackathon/) | **October 15-17** | Sao Paulo
 * [Futurecom](http://en.futurecom.com.br/) | **October 16-20** | Sao Paulo
@@ -208,6 +228,7 @@
 
 #### December
 
+* [Front in Floripa](http://frontinfloripa.com.br/) | **December 02** | Florianópolis/SC
 * [CocoaHeads Conference 2016](http://cocoaheadsconference.com.br/) | **December 02-03** | Osasco
 * [OpenLabs](http://openlabs.com.br/) | **December 03** | Nova Friburgo
 * [PHP Conference Brasil](http://phpconference.com.br) | **December 07-11** | Osasco
